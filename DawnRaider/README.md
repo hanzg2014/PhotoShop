@@ -6,3 +6,4 @@ A parody of some of the pictures appeared the original versions of Dawn Rader re
 |![taiwan map][taiwan]|![lin photo][lin]|
 
 [taiwan]:https://github.com/hanzg2014/PhotoShop/blob/master/DawnRaider/parody1.PNG
+[lin]:https://github.com/hanzg2014/PhotoShop/blob/master/DawnRaider/parody2.JPG
