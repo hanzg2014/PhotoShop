@@ -1,8 +1,10 @@
 # WelcomeUchiwa
-The design of a Japanese fan(団扇/うちわ/"uchiwa") to welcome the exchange student of sign for both the front face 
+The design of a Japanese fan(団扇/うちわ/"uchiwa") to welcome to our lab the exchange student 
 Christiane Schwarzl from Austria.
 
-![uchiwa front][front]
+This used both as the welcome poster at Haneda Airport, and as my personal souvenir.
+
+![uchiwa front][front] ![uchiwa back][back]
 
 Sources:
 Austria National Flag
@@ -19,3 +21,6 @@ https://baseec2.s3.amazonaws.com/images/item/origin/12722daffb55bc9d6bb1c4c11eac
 
 
 [front]:https://github.com/hanzg2014/PhotoShop/blob/master/WelcomeUchiwa/Front.png
+
+
+[back]:https://github.com/hanzg2014/PhotoShop/blob/master/WelcomeUchiwa/Back.png
