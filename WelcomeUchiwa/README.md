@@ -4,7 +4,9 @@ Christiane Schwarzl from Austria.
 
 This used both as the welcome poster at Haneda Airport, and as my personal souvenir.
 
-![uchiwa front][front] ![uchiwa back][back]
+|Front|Back|
+|-----|----|
+|![uchiwa front][front]|![uchiwa back][back]|
 
 Sources:
 Austria National Flag
