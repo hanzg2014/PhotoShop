@@ -8,4 +8,4 @@ Some of my PhotoShop Arts
 
 [lin]:https://github.com/hanzg2014/PhotoShop/blob/master/DawnRaider/parody2.JPG
 [TAB]:https://github.com/hanzg2014/PhotoShop/blob/master/TAB/tab_1.png
-[front]:（https://github.com/hanzg2014/PhotoShop/blob/master/WelcomeUchiwa/Front.png =100x100）
+[front]:（https://github.com/hanzg2014/PhotoShop/blob/master/WelcomeUchiwa/Front.png =100x）
