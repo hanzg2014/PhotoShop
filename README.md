@@ -2,8 +2,9 @@
 Some of my PhotoShop Arts
 
 
-|**Dawn Raider**|TAB sticker|Welcome Uchiwa|Giveup|
+|||||
 |-----------|-----------|--------------|------|
+|**Dawn Raider**|**TAB sticker**|**Welcome Uchiwa**|**Giveup**|
 |![lin photo][lin]|![TAB sticker][TAB]|![uchiwa front][front]|![GiveUp cover][GiveUp]|
 |**Holy High**||||
 |![HH cover][HH]||||
