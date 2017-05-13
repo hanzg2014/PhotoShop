@@ -6,7 +6,7 @@ Some of my PhotoShop Arts
 |-----------|-----------|--------------|------|
 |**Dawn Raider**|**TAB sticker**|**Welcome Uchiwa**|**Giveup**|
 |![lin photo][lin]|![TAB sticker][TAB]|![uchiwa front][front]|![GiveUp cover][GiveUp]|
-|**Holy High**|90th Gogatsusai|||
+|**Holy High**|**90th Gogatsusai**|||
 |![HH cover][HH]|![90G poster][90G]|||
 
 [lin]:https://github.com/hanzg2014/PhotoShop/blob/master/DawnRaider/parody2.JPG
